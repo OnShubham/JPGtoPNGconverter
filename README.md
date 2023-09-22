@@ -6,8 +6,6 @@ python JPGtoPNGconverter.py [input_folder] [output_folder]
 [input_folder] is your folder which contain images.
 [output_folder] is folder in which you want to save converted images.
 
-<!-- example
+example ->
 
-JPGtoPNGconverter.py img/ new/  
-
--->
+# JPGtoPNGconverter.py img/ new/  
